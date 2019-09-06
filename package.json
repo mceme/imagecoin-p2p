@@ -1,5 +1,5 @@
 {
-  "name": "axecore-p2p",
+  "name": "imagecoin-p2p",
   "version": "1.2.0",
   "description": "Interface to the axe P2P network for Axecore",
   "author": "BitPay <dev@bitpay.com>",
