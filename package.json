@@ -16,10 +16,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/axerunners/axecore-p2p.git"
+    "url": "https://github.com/mceme/imagecoin-p2p.git"
   },
   "dependencies": {
-    "@axerunners/axecore-lib": "^0.17.6",
+    "@mceme/imagecoin-lib": "^0.17.6",
     "bloom-filter": "^0.2.0",
     "mocha": "^5.2.0",
     "node-buffers": "^0.1.1",
