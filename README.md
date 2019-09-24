@@ -1,4 +1,4 @@
-AXEcore P2P
+IMGcore P2P
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/@axerunners/axecore-p2p.svg?style=flat-square)](https://www.npmjs.org/package/@axerunners/axecore-p2p)
@@ -11,7 +11,7 @@ See [the main axecore-lib repo](https://github.com/axerunners/axecore-lib) for m
 ## Getting Started
 
 ```sh
-npm install @axerunners/axecore-p2p
+npm install mceme/axecore-p2p
 ```
 In order to connect to the Axe network, you'll need to know the IP address of at least one node of the network, or use [Pool](/docs/pool.md) to discover peers using a DNS seed.
 
